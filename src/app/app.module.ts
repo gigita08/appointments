@@ -11,9 +11,6 @@ import { CommonModule } from '@angular/common';
     AppointmentListComponent
   ],
   imports: [
-    BrowserModule,
-    FormsModule,
-    CommonModule
   ],
   providers: [],
   bootstrap: [AppComponent]
